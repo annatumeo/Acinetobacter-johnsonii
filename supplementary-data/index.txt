@@ -1,6 +1,0 @@
-Supplementary data index:
-
-Table S1: Genome assembly statistics. 
-Table S2: List of publicly available genomes used.
-Table S3: Predicted plasmid information including plasmid id, size (bp), replicon and relaxase types.
-Table S4: Results of ARGs screening on predicted plasmid sequences.
